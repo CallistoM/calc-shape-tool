@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>main</OriginalElement>
+  <nodes>
+    <node x="472.0120483886357" y="443.79173822481897">main.domain.Shapes</node>
+    <node x="420.0" y="1112.6103495729126">main.datastorage.DatabaseConnection</node>
+    <node x="794.4467004137928" y="750.6103495729126">main.domain.Sphere</node>
+    <node x="789.327665516615" y="0.0">main.domain.Cubic</node>
+    <node x="0.0" y="1112.6103495729126">main.datastorage.ShapeDAO</node>
+    <node x="1162.327665516615" y="0.0">main.presentation.VAT</node>
+    <node x="815.0" y="1112.6103495729126">main.Main</node>
+    <node x="0.0" y="379.38697803297225">main.domain.Cilinder</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="main.domain.Cubic" target="main.domain.Shapes">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="main.domain.Sphere" target="main.domain.Shapes">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="main.domain.Cilinder" target="main.domain.Shapes">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6538192011212334" x="721.0444801714898" y="723.5" />
+  <SelectedNodes>
+    <node>main.domain.Cilinder</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

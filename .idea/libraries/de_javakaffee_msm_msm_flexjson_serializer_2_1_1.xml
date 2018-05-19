@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="de.javakaffee.msm:msm-flexjson-serializer:2.1.1" type="repository">
+    <properties maven-id="de.javakaffee.msm:msm-flexjson-serializer:2.1.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/msm-flexjson-serializer-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flexjson-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcip-annotations-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

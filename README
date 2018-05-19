@@ -1,0 +1,18 @@
+Een korte beschrijving met aanwijzingen hoe de applicatie geïnstalleerd en gebruikt moet worden:
+
+Applicatie kan geinstalleerd worden met de volgende mogelijkheiden:
+vat_tool.jar kan worden geopend met de volgende commando:
+
+java -jar vat_tool.jar
+
+De java code waar de database mee connect zijn de volgende gegevens:
+String url = "jdbc:mysql://127.0.0.1/vat_tool";
+Properties props = new Properties();
+props.setProperty("user", "root");
+props.setProperty("password", "");
+props.setProperty("ssl", "false");
+props.getProperty("verifyServerCertificate", "false");
+
+Een korte beschrijving van de highlights (waar ben je trots op en wat is goed gelukt) en de lowlights (wat is minder goed gelukt wat zou nog verbeterd moeten worden):
+JSON export en import ben ik trots op en vind ik goed gelukt, wat minder tevreden mee ben is dat het in SWING is gebouwd inplaats van JavaFX, met JavaFX waren de mogelijkheden kwa interface toch leuker geweest.
+

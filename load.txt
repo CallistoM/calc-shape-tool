@@ -1,0 +1,3 @@
+Cilinder 10 10
+Cubic 20 30 40
+Sphere 20

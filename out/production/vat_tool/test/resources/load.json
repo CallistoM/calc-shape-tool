@@ -1,0 +1,14 @@
+{
+  "Sphere": {
+    "radius": 20.5
+  },
+  "Cilinder": {
+    "height": 30.5,
+    "radius": 20.5
+  },
+  "Cubic": {
+    "height": 30.5,
+    "width": 20.5,
+    "length": 20.5
+  }
+}
